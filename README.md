@@ -1,14 +1,6 @@
 # Student Intervention System
 建立学生干预系统
 
-![模型选择](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG"模型选择")
-
-![模型选择2](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG "模型选择2")
-
-![git1](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG)
-
-![moxing](Student-Intervention-System/picture/choose algorithm.PNG)
-
 主要内容：使用pandas，numpy和pyplot探索数据，通过将非数值数据转换为数值数据对数据进行预处理，使用适当的监督学习算法（如朴素贝叶斯，逻辑回归和支持向量机）进行预测，并计算和比较F1分数。
 
 文章来源：翻译自《Building a Student Intervention System》
@@ -326,7 +318,7 @@ scikit-learn中有以下监督学习方法可供选择：
 * 根据你对数据的了解，是什么使该模型成为这个问题的良好备选项？
 如何选择算法？
  
-![github](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/choose algorithm.PNG)  
+![模型选择](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG "模型选择")
  
 
 #### 答案：
@@ -584,11 +576,11 @@ F1 score for test set: 0.8052.
 ### 3.2 表格结果
 在Markdown中设计表格，编辑下面的单元格，可以在表中记录上述结果。
  
-![classifer1](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer1.png) 
+![朴素贝叶斯](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/classifer1.png "朴素贝叶斯")
 
-![逻辑回归](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer2.png "逻辑回归") 
+![逻辑回归](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/classifer2.png "逻辑回归") 
 
-![](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer3.png) 
+![支持向量机](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/classifer3.png "支持向量机") 
  
 从三张表中，可以很清晰的看出三种不同算法对应三种不同大小数据集所用的训练及预测的时间和F1分数，经过对比和分析，我们可以选则一个最合适的模型。
 
