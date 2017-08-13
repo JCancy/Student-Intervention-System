@@ -3,6 +3,9 @@
 
 ![模型选择](https://github.com/JCancy/Student-Intervention-System/picture/choose algorithm.PNG)
 
+![github](Student-Intervention-System/picture/choose algorithm.PNG)
+
+![git1](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG)
 
 ![moxing](Student-Intervention-System/picture/choose algorithm.PNG)
 
