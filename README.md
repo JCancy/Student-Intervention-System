@@ -318,7 +318,7 @@ scikit-learn中有以下监督学习方法可供选择：
 * 根据你对数据的了解，是什么使该模型成为这个问题的良好备选项？
 如何选择算法？
  
-![](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/choose algorithm.PNG "算法选择")  
+![算法选择](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/choose algorithm.PNG "算法选择")  
  
 
 #### 答案：
@@ -576,7 +576,7 @@ F1 score for test set: 0.8052.
 ### 3.2 表格结果
 在Markdown中设计表格，编辑下面的单元格，可以在表中记录上述结果。
  
-![](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer1.PNG "朴素贝叶斯") 
+![朴素贝叶斯](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer1.PNG) 
 
 ![](https://github.com/JCancy/Student-Intervention-System/tree/master/picture/classifer2.PNG "逻辑回归") 
 
