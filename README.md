@@ -3,9 +3,8 @@
 
 主要内容：使用pandas，numpy和pyplot探索数据，通过将非数值数据转换为数值数据对数据进行预处理，使用适当的监督学习算法（如朴素贝叶斯，逻辑回归和支持向量机）进行预测，并计算和比较F1分数。
 
-文章来源：翻译自《Building a Student Intervention System》
-http://www.ritchieng.com/machine-learning-project-student-intervention
-作者简介：本文作者Ritchie Ng是来自新加坡国立大学（NUS）的深度学习研究人员、全球优秀学者，专门从事深度学习、计算机视觉和自然语言处理方面的研究，其研究项目涉及TensorFlow，PyTorch，TensorLayer，Keras，OpenCV，scikit-learn，CUDA，cuDNN，Python以及C / C++等相关内容。
+文章来源：翻译自《Building a Student Intervention System》,http://www.ritchieng.com/machine-learning-project-student-intervention	<br>
+作者简介：本文作者Ritchie Ng是来自新加坡国立大学（NUS）的深度学习研究人员、全球优秀学者，专门从事深度学习、计算机视觉和自然语言处理方面的研究，其研究项目涉及TensorFlow，PyTorch，TensorLayer，Keras，OpenCV，scikit-learn，CUDA，cuDNN，Python以及C / C++等相关内容。<br>
 作者网站：http://www.ritchieng.com
 
 ## 1 项目内容：建立学生干预系统
