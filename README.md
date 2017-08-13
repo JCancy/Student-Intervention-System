@@ -1,6 +1,9 @@
 # Student Intervention System
 建立学生干预系统
 
+![模型选择](https://github.com/JCancy/Student-Intervention-System/picture/choose algorithm.PNG)
+![moxing](Student-Intervention-System/picture/choose algorithm.PNG)
+
 主要内容：使用pandas，numpy和pyplot探索数据，通过将非数值数据转换为数值数据对数据进行预处理，使用适当的监督学习算法（如朴素贝叶斯，逻辑回归和支持向量机）进行预测，并计算和比较F1分数。
 
 文章来源：翻译自《Building a Student Intervention System》
