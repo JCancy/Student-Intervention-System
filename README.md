@@ -1,9 +1,9 @@
 # Student Intervention System
 建立学生干预系统
 
-![模型选择](https://github.com/JCancy/Student-Intervention-System/picture/choose algorithm.PNG)
+![模型选择](![git1](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG"模型选择")
 
-![github](Student-Intervention-System/picture/choose algorithm.PNG)
+![模型选择2](![git1](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG "模型选择2")
 
 ![git1](https://github.com/JCancy/Student-Intervention-System/blob/master/picture/choose%20algorithm.PNG)
 
